@@ -26,8 +26,9 @@
 
 /********** Social **********/
 
-body div[id="social"] a {
+body div[id="social"] {
   position: fixed;
+  top: 200px;
+  right: 20px;
   z-index: 1;
-  display: block;
 }
