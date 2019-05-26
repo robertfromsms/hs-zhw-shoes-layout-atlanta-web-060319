@@ -22,6 +22,35 @@
   clear: both;
 }
 
-/* Positioning Classes */
+/*********** Positioning Classes *************/
 
+.column-a-third {
+  float: left;
+  width: 32%;
+}
 
+.column-two-third {
+  float: left;
+  width: 66%;
+}
+
+[class*="column-"] {
+  margin-left: 2%;
+}
+
+.first {
+  margin-left: 0%;
+}
+
+/********** Social **********/
+
+div#social.social-bar {
+  position: fixed;
+  top: 200px;
+  right: 5px;
+  z-index: 1;
+}
+
+div#social.social-bar a {
+  display: block;
+}
