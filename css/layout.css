@@ -28,7 +28,7 @@
 
 body div#social.social-bar {
   position: fixed;
-  top: 400px;
+  top: 200px;
   right: 5px;
   z-index: 1;
 }
