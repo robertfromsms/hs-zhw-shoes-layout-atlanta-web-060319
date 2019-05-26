@@ -26,7 +26,7 @@
 
 /********** Social **********/
 
-body div[id="social"] {
+body div#social.social-bar {
   position: fixed;
   top: 400px;
   right: 5px;
