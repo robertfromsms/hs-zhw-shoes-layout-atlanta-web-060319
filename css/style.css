@@ -259,7 +259,7 @@ section {
   background: white;
 }
 
-section.shadow.column-a-third.first {
+section[class="shadow column-two-third first"] {
   height: 25%;
 }
 
