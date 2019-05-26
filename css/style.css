@@ -261,10 +261,12 @@ section {
 
 section[class="shadow column-two-third first"] {
   height: 550px;
+  margin-bottom: 2%;
 }
 
 section#archive-list.shadow.column-a-third {
   height: 550px;
+  margin-bottom: 2%;
 }
 
 section[class="shadow column-a-third first"] {
