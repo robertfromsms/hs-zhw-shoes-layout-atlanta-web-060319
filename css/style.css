@@ -263,7 +263,7 @@ section[class="shadow column-two-third first"] {
   height: 550px;
 }
 
-section[class="shadow column-a-third"] {
+section#archive-list.shadow.column-a-third {
   height: 550px;
 }
 
