@@ -22,7 +22,21 @@
   clear: both;
 }
 
-/* Positioning Classes */
+/*********** Positioning Classes *************/
+
+.column-a-third {
+  float: left;
+  width: 32%;
+}
+
+.column-two-third {
+  float: left;
+  width: 66%;
+}
+
+[class*="column-"] {
+  margin-left: 2%;
+}
 
 /********** Social **********/
 
