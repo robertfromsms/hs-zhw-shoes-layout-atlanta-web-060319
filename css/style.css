@@ -267,6 +267,14 @@ section[class="shadow column-a-third"] {
   height: 550px;
 }
 
+section[class="shadow column-a-third first"] {
+  height: 360px;
+}
+
+section[class="shadow column-a-third"] {
+  height: 360px;
+}
+
 section a {
   color: #555;
   text-decoration: underline;
