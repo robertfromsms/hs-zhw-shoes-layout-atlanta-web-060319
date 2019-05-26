@@ -259,6 +259,10 @@ section {
   background: white;
 }
 
+section.shadow.column-a-third.first {
+  height: 25%;
+}
+
 section a {
   color: #555;
   text-decoration: underline;
