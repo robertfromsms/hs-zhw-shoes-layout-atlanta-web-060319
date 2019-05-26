@@ -263,6 +263,10 @@ section[class="shadow column-two-third first"] {
   height: 550px;
 }
 
+section[class="shadow column-a-third"] {
+  height: 550px;
+}
+
 section a {
   color: #555;
   text-decoration: underline;
