@@ -28,7 +28,7 @@
 
 body div[id="social"] {
   position: fixed;
-  top: 200px;
-  right: 20px;
+  top: 400px;
+  right: 5px;
   z-index: 1;
 }
